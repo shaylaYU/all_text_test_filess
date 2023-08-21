@@ -1,0 +1,1381 @@
+地中海航运（MSC）订舱操作指南
+-2022.09.26
+（操作指南的更新内容都已用红色字体显示，敬请留意）
+目录
+一、 订舱要求.......................................................................................................... 2
+1. 普通货.............................................................................................................. 2
+2. 特种箱.............................................................................................................. 5
+3. 超尺寸特种箱.................................................................................................. 6
+4. 冷冻箱订舱...................................................................................................... 6
+5. 危险品.............................................................................................................. 7
+6. 拼箱.................................................................................................................. 9
+7. 碳类货物
+8. 钢卷类订舱要求
+9．车辆操作流程
+10. 其他特殊货物................................................................................................ 12
+11. 其他订舱要求................................................................................................ 27
+二、 修改要求........................................................................................................ 32
+1. 品名修改（唛头）........................................................................................ 32
+2. 船开前改港.................................................................................................... 33
+3. NAME ACCOUNT 修改 ............................................................................... 34
+4. 其他更改........................................................................................................ 34
+三、 预配查询........................................................................................................ 34
+四、 退关................................................................................................................ 36
+五、 常见问题及解答............................................................................................ 36
+1. MSC 对于日常操作问题的解答 .................................................................. 37
+2. 预配及舱单查询............................................................................................ 37
+3. 进港代码及相关保函下载............................................................................ 37
+4. 如何改配........................................................................................................ 37
+5. 如何漏装........................................................................................................ 39
+6. 关于套用箱重要通知.................................................................................... 39
+7. 关于NAME ACCOUNT ............................................................................... 40
+8. 关于MSC 超重限重 ..................................................................................... 40
+9. MSC 保函 ...................................................................................................... 41
+10. 集装箱设备管理费 .................................................................................... 41
+11. 是否能申请空白配舱回单 ........................................................................ 41
+12. 华东外运海运分公司 MSC 订舱联系人 .................................................. 41
+六、 船公司联系方式............................................................................................ 42
+此订舱指南仅供订舱参考,船公司操作如有变动,请以船公司实际操作要求为准
+所列所有费用仅供参考，具体费用以实际发生时船公司确认为准
+1正文
+一、 订舱要求
+1. 普通货
+a. 需要提供具体的 SHIPPER/CNEE/NTY资料，包括地址/电话/传真/联系人/
+城市名。SHIPPER/CNEE/NTY的电话、传真、城市名, SHIPPER/CNEE/NTY PARTY
+代码请填写在“详细信息”勾选下的固定栏位中。如有第二通知人，请提
+供在“其他联系人信息”中的第二通知人栏位内。(MSC最新通知现:
+SHIPPER/CNEE/NTY PARTY/ NTY PARTY2 全部要在 SI阶段提供MSC CODE)
+如订舱时，不知道 SHIPPER/CNEE/NTY PARTY 的代码，则可以先空着订
+上来，(但如果知道请务必将 MSC CODE打正确,要与提供的信息相符) 并最
+晚于订舱后的 2 个工作日内，发送邮件查询及申请 (发给我司订舱与单证
+全部可以)（也可以自行发送给 MSC 申请）格式及要求如下：
+从 3 月 1 号起, 申请/ 查询海外 MSC CODE 的邮箱更新为
+IN912-nprc.code@msc.com ,请各代理务必使用英语发送申请邮件，并严格
+按以下格式发送至正确的邮箱，否则您的邮件将会被拒绝或不会被处理。
+希望各代理积极配合，再次感谢您的合作！（ 如有任何问题，请直接回复
+以下邮箱）
+邮件主 起运港 (POL) + 公司名 COMPANY NAME（请写所需查询的公司
+题 名）+ 订舱号 BOOKING NO.
+邮件内 A. 注明所申请查询的公司的类型（发货人、收货人、通知人等）
+容 COMPANY TYPE(exp:SHIPPER、CNEE、NOTIFY)
+B. 提供具体公司信息（包括公司名、地址等）Address & Contact
+details
+此订舱指南仅供订舱参考,船公司操作如有变动,请以船公司实际操作要求为准
+所列所有费用仅供参考，具体费用以实际发生时船公司确认为准
+2邮件发 A. 公司地址在中国大陆地区(包括香港)：
+cn177-mscchinacode@msc.com
+送地址
+B. 公司地址在海外的（包括澳门、台湾）：
+IN912-nprc.code@msc.com
+注意：
+ 船公司仍然会在 1个工作日内回复邮件，请不要催促和重复发送。
+ 如文件部对您使用的 MSC Code存有异议，请确保您使用的 MSC Code 是
+自 cn177-mscchinacode@msc.com & IN912-nprc.code@msc.com coding
+team 回复给您的，且申请的公司信息和最终显示提单的信息一致，那么
+您就可以忽视文件部的邮件，他们只是善意的提醒您是否已与 coding 中
+心核查过 MSC Code。
+注: 由于贵司没有在规定时间内及时查询/申请 MSC Code 或提供了错误的信
+息而导致无法及时创建 MSC Code（包括客户没有及时回复正确信息），而
+在以下时间后提出的更改 MSC Code 申请，MSC 将收取相应更改费用。
+1) AMS/ENS的航线：标准 SI截止时间后的 12小时, 个别航线将视实际操作
+情况而定
+2) 非AMS/ENS的航线：开船日之前
+***注意事项***
+1. MSC Code 对应的信息将作为舱单信息向目的港海关申报，因此请
+务必自行确保其内容的正确性有效性。
+2. 上述流程只针对提单发货人、收货人和通知人的 MSC Code的申请。
+如需要查询或申请第三地付费人或约主的 MSC Code，请联系相应
+起运港的客服或销售。
+3. 收货人为 TO OREDER 或TO ORDER OF XXXX BANK 或 TO ORDER OF
+XXXX COMPANY，不需要在提交S/I 时输入MSC Code，请不要发送
+申请。
+4. 请勿在不相关的历史邮件基础上发送新申请。
+此订舱指南仅供订舱参考,船公司操作如有变动,请以船公司实际操作要求为准
+所列所有费用仅供参考，具体费用以实际发生时船公司确认为准
+35. 邮件或签名中不要添加无关的附件或插图。
+请各订舱客户务必遵循上述流程进行查询/申请工作，否则由于 MSC Code 错误
+所造成的所有费用和风险均由订舱客户承担。谢谢配合。
+MSC CODE 代码需填在对应栏位 如下图中显示
+b.品名里需要提供 HS CODE（六位数字）
+c.货重
+限重规定摘录如下，具体可以我司及联东网站下载：
+Quote
+1, 总重量（货重+箱重）必须低于上海港规定的限重30500KGS，同时必须遵照目的港的
+限重规定（请严格按照后页中的各航线限重一览表装柜）。
+2, 装载的货重不得超过箱体的最大载荷（以标注在箱体上的为准）。
+一般货柜的最大载荷如下：
+20'DV -- 21700KGS
+Upgraded 20'DV -- 27600KGS
+40'DV/HQ -- 26000KGS
+如果 20‘货柜所装货物预计要超过 21700KGS，请向堆场工作人员要求提取“超重
+柜”(即 Upgraded 20'DV)。否则，货主/订舱代理需自行承担由于超重装载或事后换箱产
+生的额外费用。
+3, 提单上所显示的货物重量加集装箱皮重之和，如果与客户提交的 VGM 之差超过
+1000KGS，我司将在签发提单前，要求订舱代理、发货人进一步核查真实重量，向订舱
+代理索赔由此产生的额外费用（包括但不限于翻舱费、改港费和额外运费等等）。
+如有违反上述任一项规定，货主、订舱代理必须承担可能产生的所有额外费用（如翻舱
+费、码头操作费等等）和风险。
+Unquote
+此订舱指南仅供订舱参考,船公司操作如有变动,请以船公司实际操作要求为准
+所列所有费用仅供参考，具体费用以实际发生时船公司确认为准
+4d.2个箱子以上者，品名必须提供分箱重量
+e. 如果是同一货柜下有若干拼票，要在各拼票的品名描述中注明该货柜中货的
+总重。
+f. 若是拼箱订舱收货人不能是：TO ORDER
+g.每票单子的 HS CODE 都必须提供在品名栏中
+h. 目前对于MSC订舱，所有港口，如有NAME ACCOUNT，请填写在我司NAME ACCOUNT
+相关栏位内，
+具体操作路径： 其他联系人信息—NAME ACCOUNT 信息。
+在货物品名内、备注里显示的 NAME ACCOUNT将不作数。
+2. 特种箱
+为简化流程，加速操作订舱速度，特此通知， 超尺寸(OOG)特种箱保函将由电子
+版本替代正本递送，特种箱（包括超尺寸与不超尺寸）的申请流程，如下：
+不超尺寸特种箱：
+1) 向MSC销售询问价格及特种箱储备情况。
+此订舱指南仅供订舱参考,船公司操作如有变动,请以船公司实际操作要求为准
+所列所有费用仅供参考，具体费用以实际发生时船公司确认为准
+52) a. 有箱且确认价格：订舱代理发送 EDI定舱，与此同时告知 MSC销售/客服
+相关订舱号，以便与特种箱小组协调确认订舱并放箱。
+b. 无箱：结束或向销售/客服申请排队等候调箱（一般需要 3-4周的等候时
+间），有箱后 2.a
+3) 若申请调箱后又取消，请及时通知销售/客服，否则 MSC保留收取调箱产生
+的额外费用。
+3. 超尺寸特种箱
+1)填写 OOG Request Form，邮件发送至相关销售询问价格及特种箱储备情况。（提
+醒：请仔细阅读OOG Request Form 中底部1和 2两点。MSC收悉后即默认订舱
+代理/客户已确认承担之责任。）
+2) a. 有箱且确认价格：订舱代理发送 EDI 订舱，与此同时告知 MSC 销售/客服
+相关订舱号，以便与特种箱小组协调确认订舱并放箱。
+b. 无箱：结束或向销售/客服申请排队等候调箱（一般需要 3-4周的等候时间），
+有箱后 2.a
+3) 若申请调箱后又取消，请及时通知销售/客服，否则 MSC保留收取调箱产生的
+额外费用。
+注：如特种箱为 SOC 箱，只需向 MSC 销售/客服确认价格，亦请另外遵循 SOC 箱
+订舱流程（即提供正本 SOC保函+箱证）。
+OOG Request Form （sheet 1--申请格式，sheet 2--样本），可从联东网站下载：
+下载专栏 MSC相关保函 订舱相关 超尺寸特种箱-申请格式（含样本）
+4. 冷冻箱订舱
+请在提交的冷冻柜保函上，完整填写具体数据及要求内容，并加盖提单发货人以
+及订舱代理公司章（冷冻柜保函格式不变）保函格式可在联东网站下载。
+此订舱指南仅供订舱参考,船公司操作如有变动,请以船公司实际操作要求为准
+所列所有费用仅供参考，具体费用以实际发生时船公司确认为准
+6请发送邮件主题规范为：Reefer Booking - V/V- S/O number – 给我司
+邮件中必须显示如下二点：
+1)箱型/箱量
+2)提箱时间
+销售部冷柜小组给予将确认邮件连同电子附件发给相关客服人员。
+- 客服人员确认箱柜情况，然后把确认邮件连同电子附件传递给订
+舱组。
+- 若没有其他单证问题，订舱组会确认订舱通过，同时连同电子附
+件一起通知箱管。
+- 箱管发指令给堆场做计划。
+- 客户凭设备交接单和打印出的电子保函提柜。
+对于需要预冷的箱子，如不能按时提箱或者需要取消提箱计划的，客户必须在预计提箱日前
+一个工作日，发邮件告知我司或者通知MSC订舱部(CN177-MSCSHAEBooking@msc.com )和箱
+管部(CN177-MSC-SHA-logistics@msc.com )，并抄送我司
+否则由此产生的预冷费用将由客户自行承担。
+5. 危险品
+a .shpr/cnee/nty 资料（包括地址/电话/传真/联系人）
+b.品名里必须提供 HS CODE
+c.请将仓库详细资料提供在订舱备注里（英文表示）紧急联系人的名称和国
+内手机号码
+d. 品名两个及两个以上，需使用多品名模板来订。
+e. 提 单 号 码 发 放 后 ， 请 邮 件 ( 宋
+此订舱指南仅供订舱参考,船公司操作如有变动,请以船公司实际操作要求为准
+所列所有费用仅供参考，具体费用以实际发生时船公司确认为准
+7R<SONGZHENHAO@SINOTRANS.COM>(T:33125972))发送 MSC 格式 APPLICATION
+FORM和危保证，((P.S.申请表格上任需加盖提单上 Shipper的电子章和订舱
+客户的电子章)
+F.如订到 LIMITED QUANTITY，请先发邮件给相关订舱人员确认，再确认以
+后，请提供纸面订舱信息：
+1）DG APPLICATION+2)海关批复的回执单+3）技术说明书 给我司
+并请在品名里注明LIMITED QUANTITY 字样
+G. 两个及两个箱子以上需要在品名里提供分箱数据，并在危险品申请表格
+-APPLICATION FORM 上注明每个箱子分别对应的数据。
+请注意:MSC 将统一危险品各个阶段发送的邮箱地址，现统一为
+CN177-mscshadgapplication@msc.com 将以邮件主题来区分各客户的危险品
+相关事宜，所以请务必每次都书写正确的邮件主题以免引起误解，谢谢配合！
+请参阅如下危险品各环节所需提供的资料及发送至的邮箱地址(需特别注意红色更改部分):
+同时 MSC 已开通网上出口订舱状态查询业务，客人可登陆联东网站
+https://web.lindomsc.com/ 查询危险品审批进度.
+此订舱指南仅供订舱参考,船公司操作如有变动,请以船公司实际操作要求为准
+所列所有费用仅供参考，具体费用以实际发生时船公司确认为准
+8以下为查询界面:
+P.S. 如查询结果显示如下 无放箱预配的原因里有显示“请联系相关航线销售
+放舱位”，此时说明危险品已经 Confirm，请及时联系销售放舱位，无需再联系
+危险品小组查询进度。
+6. 拼箱
+等主票订舱好以后再加拼。应船公司要求且为便于更快得到拼票的舱单信
+息，从”船期为2015-8-20的订单”开始启动新的操作方式，除以上要求外，针对
+非危险品的加拼订单有如下的操作方式：
+此订舱指南仅供订舱参考,船公司操作如有变动,请以船公司实际操作要求为准
+所列所有费用仅供参考，具体费用以实际发生时船公司确认为准
+91）.如加拼票只用于报关而不用于出分单提单（主拼票订单的发货人必须一
+致），请在主单已接收的情况下再提交加拼票时自行加上提单号（提单号为主单
+号后添加A,B,C,D……）
+注：此种情况下如需变更出单要求，请第一时间与我司订舱相关人员联系相关
+事宜，请勿直接递交该票的提单确认件。如未与我司订舱人员联系而直接递交原
+只报关不出单的拼票提单确认件而产生的所有风险及费用由客户自行承担。
+2）.如该加拼票用于出分单提单，请在备注里注明NEED ISSUE BILL”字样 并
+且品名栏首行输入PART OF 177XXX+‘same shipper as master booking’，（发
+货人与主票相同）或者PART OF 177XXX+‘ to combine with master booking upon
+BL issuance’ （发货人与主票不同）.提单号无须填写，由我司来放。我司会
+将该订单发送至MSC船公司，由MSC将信息转发给联东船代。另必须等此加拼单号
+在联东网上是确认状态才能发送SI.
+注意事项: 如此加拼单号要出整箱提单.请务必发送套用箱申请(详见MSC关于
+套用箱的重要通知)
+注：危险品加拼请直接提交加拼订单，提单号由我司来放无须客户填写，同时
+只需在品名首行注明PART OF 177XXX及“same shipper as master booking”or
+“to combine with master booking upon BL issuance”即可。
+7. 碳类货物
+无论是危险品还是非危的碳类货物，必须提供碳类货物保函，并由提单上的发货
+人签字盖章及订舱代理盖章。
+此保函也可访问我司网站和联东网站下载：联东下载专区-订舱相关-碳类货物保
+函http://180.168.67.23/back/upload/CharcoalCarbon%20Cargo%20LOI.DOC
+已经通过自发热测试不归类于危险品的碳类货物，必须另外提供以下文件：
+- 自发热物质检验证书（客户可去任何相关权威机构做此证书，如上海化工研究
+院）
+- 详细的分析报告（MSDS，必须含有在参照IMDG 标准下的货物运输条件的信
+息）。
+此订舱指南仅供订舱参考,船公司操作如有变动,请以船公司实际操作要求为准
+所列所有费用仅供参考，具体费用以实际发生时船公司确认为准
+10- 货物运输条件鉴定书（由上海化工研究院出具，且生产商必须与自发热物质检
+验证书
+以上资料请发送邮件至我司操作邮箱，等MSC审核OK后需要正本盖发货人和贵司
+章一式二份送外运盖章后送MSC相关订舱操作人员。
+注意: 碳类保函还需要出具一份致外运格式的碳类保函，以供我司留底。保函上
+需要SHPR和贵司正本章。 格式请在外运订舱网下载。
+危险品的碳类货物，仍旧按照危险品操作流程操作，但碳类货物保函需要提供。
+注：MSC 不接散装铸造焦炭及碳渣（屑）
+MSC预配完成后，所有炭类货物需要在截港前提供“碳类货物装箱清单”至MSC
+船舶操作部和MSC订舱部，
+Mail standard subject邮件标题: CHARCOAL/CARBON CNTR LIST – Vessel/Voyage – BK NO.: 177***
+VOP team group address: mscshavop@nprc.mschkg.com
+Booking Team for Shanghai Booking: mscshaebkg@nprc.mschkg.com
+碳类货物装箱清单 请在我司网上下载格式。
+8. 钢卷类订舱要求
+订舱时需先出具电子版监装品名保函并以邮件形式发送给我司订舱人员，该
+格式可在我司订舱网站上下载，并同时根据要求自行联系MSC的指定监装公司。
+待该电子版保函经船公司审核确认后，请提供该正本钢卷监装品名保函一式二
+份，并在保函上加盖SHIPPER 和贵司正本章，至我司敲章后送至MSC相关订舱人
+员处。
+注意: 钢卷类保函还需要出具一份致外运格式的钢卷保函，以供我司留底。
+保函上需要SHPR和贵司正本章。 格式请在外运订舱网下载。
+此订舱指南仅供订舱参考,船公司操作如有变动,请以船公司实际操作要求为准
+所列所有费用仅供参考，具体费用以实际发生时船公司确认为准
+119. 车辆操作流程
+为规范我司涉及到燃油（燃气）或电力驱动的车辆（设备）货物的订舱流程，加
+快订舱审核速度。即日起，请在订舱阶段按如下流程操作：
+**订舱代理以邮件形式确认给订舱部将遵循此操作流程，邮件主题和措辞如下，
+我司将基于此确认订舱。
+邮件主题：Vehicle Shipment – Vessel Name/Voyage – Booking
+Number
+邮件正文：请填写如下措辞
+It is confirmed that the commodity/cargo of captioned shipment is applicable to
+requirements of IMDG code Special Provisions 961 and we hereby confirm to
+follow the attached procedure.
+确认件下载路径：
+登录联东官网www.lindomsc.com
+下载路径： [文件下载]>[出口订舱相关]>[车辆设备货物]
+确认件填写要点：
+1. 请完整填写确认中标黄处信息，即：
+Vessel/Voyage:
+Booking number:
+POL:
+POD:
+2. 确认件无需盖章，以附件形式随邮件发送即可。
+10. 其他特殊货物
+化工品：
+1） 以邮件方式将订舱品名的鉴定书扫描件发到我司订舱人员邮箱或者直接发
+送至船公司相应的邮箱 CN177-MSCSHAEBooking@msc.com
+邮件发送格式如下：
+标题：“鉴定书登记申请 + 订舱号 + 送检单位名称 + 鉴定书编号”
+正文：请分列出中英文品名
+附件：请附上此鉴定书的扫描件
+另外请保证订舱品名和鉴定书品名保持一致，否则订舱信息无法确认。
+此订舱指南仅供订舱参考,船公司操作如有变动,请以船公司实际操作要求为准
+所列所有费用仅供参考，具体费用以实际发生时船公司确认为准
+12 特殊品名：提供 MSC 格式特殊品名保函
+ 非英品名：提供 MSC 格式非英品名保函
+ 特殊港口 美国线如果是 CY/DOOR 的提供 ZIP CODE。美国线如果是自发 AMS
+提供 SCAC CODE,打在 SCAC CODE一栏.打在品名及备注一栏的全部无效.墨西
+哥航线提供 AMS BY XXX
+ 冷代平：勾选冷代平项目；并把 RH I/O GP 打在英文品名里
+ 对于巴西航线的请在订舱时提供CNEE/NTY的CNPJ NO.并在品名里输NCM NO.
+ 对于以色列相关港口请提供 CNEE/NTY的VAT NO.(RUC NO)
+ 到Buenaventura 必须提供CNEE的NIT NO.
+ 到Guayaquil 必须提供 CNEE的RUC NO.
+ 到墨西哥和多米尼加的必须提供收发通的 TAX ID NO.
+ 当订到 40GP时,若客户不需高代平需注明“NO HP”,若无特别注明则默认为
+接受高代平
+ DAKAR 必须提供 CTN NO.(货物跟踪号,DAKAR 公会规定)，到上海 fs
+international limited 公司申请，T:63507580 ，若订舱时无法提供，可先
+提供 CTN no. guarantee letter，（联东网上有下载）到做提单确认时必须
+显示在提单上
+ 到SYRIA的货物，邮件提供SYRINA保函
+ 到 MOMBASA 需 提 供 COC 保 函 ， 联 东 网 上 有 下 载 ：
+http://211.136.153.192/download3b.asp?page=4&nb=
+ 根据土耳其海关最新规定;土耳其禁止二手车进口,Trabzon 不接受所有品名
+为“茶”、“红茶”、“绿茶”或者其他种类的茶。Gemlik 不接受品名为动物
+制品的货物。
+ 液袋货物：
+订舱时选择包装类型为“Flexitank”或“Flexibag”
+将所需的申请资料及信息以邮件形式发送至以下地址：
+Email Subject 邮件主题: Flexitank Application – Vessel/Voyage – Service Name – Booking
+Number
+此订舱指南仅供订舱参考,船公司操作如有变动,请以船公司实际操作要求为准
+所列所有费用仅供参考，具体费用以实际发生时船公司确认为准
+13Email Address 邮件地址:
+Booking Code Email Address
+订舱号前缀 邮件地址
+出货地为上海，请发送至上海销售部 ：cn177-mscshasalestp@msc.com
+177P
+出货地为其它长江流域地区，请发送至当地销售部：
+177Q
+南京: cn177-mscnanjingstaffs@msc.com
+177U
+武汉: cn177-mscwuhanstaffs@msc.com
+重庆: cn177-mscchongqingstaffs@msc.com
+除P, Q, U外 发送至上海订舱部公共邮箱：cn177-mscshaebooking@msc.com
+Required documents & information in Email Body 邮件正文中所需提交的申请资料及信息:
+1） Booking Number:
+2） Vessel/Voyage:
+3） POL/POD:
+4） FLEXITANK LOI (LOI format:
+http://web.lindomsc.com/show.aspx?CatIDX=71&IDX=326 )
+5） Name of the Flexitank Manufacturer:
+6） Flexitank type（从下述“液袋类型表”中挑选正确的类型）：
+7） MSDS（以附件形式发送）
+1. MSC screen all the documents and information, and sumbit the application to
+Antwerp DC Center for final approval, and then confirm the booking.
+MSC审核申请资料和信息，并提交液袋申请至安特卫普危险品中心，在得到其
+批复后确认订舱。
+**Remark 备注:
+Flexitank (bag) shipments are not allowed to be placed on partner vessels. Please pay
+attention to arrange the Flexitank bookings on MSC own vessels.
+合营船不接液袋货物，请务必将液袋货物配于MSC的自营船。
+液袋类型表
+COA Container ISO 9001 Quality Environment
+Company Factory Location Classification Flexitank Type
+Quality Type Management Management
+此订舱指南仅供订舱参考,船公司操作如有变动,请以船公司实际操作要求为准
+所列所有费用仅供参考，具体费用以实际发生时船公司确认为准
+14Compliance System System
+Bsi EM
+Braid ProFlex Braid Proflex Packaging, CQC Multilayer 4x layer SGS 0104302
+Manufacturer 20 ft 22G1 696788
+Packaging (3) Zhondong, PR China 03.2020 + WPP 24k 09.2020
+11.2021
+Nadekerappa BLS Multilayer 4x GIC 71685
+Bulk Liquid CQC LMS 83525A valid
+Ind.,Bangalore 566091, Manufacturer layer + wpp, 46kg 20 ft 22G1 ISO14001
+Solutions 01.2021 09.2021
+India 24k valid 02.21
+Powertex AP
+Hoyer Global Jalan Kapar, Klang BV Q131731 valid
+Operator CQC 04.202 Sealiner single layer 20 ft 22G1
+Powertex AP 42100, Malaysia 08.2021
+56kg 24k
+PIBL multlayer 4x LRQA
+Sungai Pinang, Port CQC
+IBL Flexitanks Manufacturer layer + wpp, 41kg 20 ft 22G1 KLR6007630 valid
+Klang, 42920, Malaysia 01.2021
+24k 09.2018
+ISO14001
+Liquatrans
+Cekmekoy, Instanbul CQC Liquatrans E-Flex Naviga 16401060 Naviga
+Likua Manufacturer 20 ft 22G1
+34794, Turkey 07.2021 2x layer +sleeve 24k valid 09.2018 16431061 vali
+Industrial (1)
+to 09.2018
+ISO14001
+Liquatrans
+Cekmekoy, Istanbul CQC Liquatrans E-Flex Naviga 16401060 Naviga
+Likua Manufacturer 20 ft 22G1
+34794, Turkey 07.2021 2x layer +sleeve 24k valid 09.2018 16431061 vali
+Industrial (2)
+to 09.2018
+M&W Heijen Plastics
+Shijizhen, Panyu, PR CQC LRQ 6008457
+Flexitank Manufacturer M&W (A) Series 2x 20 ft 22G1
+China 09.2021 Valid 09.2018
+Supply (1) layer 39kg 24k
+PT Mitra M&W (J)
+M&W
+Berdikari,Jakarta Timur CQC Series, Multi-layer SGS 03615 valid
+Flexitank Manufacturer 20 ft 22G1
+DK1 13930,Indonesia 09.2021 4x layer + sleeve 08.2019
+Supply (2)
+24k
+M&W PT Mitra -M&W (T)
+Berdikari,Jakarta Timur CQC SGS 03615 valid
+Flexitank Manufacturer Series Titan 2x layer 20 ft 22G1
+DK1 13930,Indonesia 09.2021 08.2019
+Supply (3) + sleeve 24k
+Neoflex NEOC Multi-layer
+Kemalpaşa 35733, CQC URS 55837 valid
+Logistics Manufacturer 4x layer + sleeve 20 ft 22G1
+Izmir,Turkey 08.2021 04.2019
+Services 24k
+Xiaojianxi, Hetao, ADA Flexitank
+Qingdao ADA CQC CNAS valid
+Qingdao 266000, PR Manufacturer Multi-layer 4x layer 20 ft 22G1
+Flexitank 01.2021 09.2018
+China + sleeve 24k
+Qingdao BLT Xi Fu Town, Qingda. PR CQC BLT Multilayer 4x DNV-GL 62884
+Manufacturer 20 ft 22G1
+Packing China 12.2019 layer + sleeve 24k valid 09.2018
+Qingdao Yanghe, Jiaozhou,
+CQC GFL Multilayer 4x BSI FM661826
+Global Qingdao 266320, PR Manufacturer 20 ft 22G1
+06.2020 layer + sleeve 24k valid 02.2020
+Flexitank China
+此订舱指南仅供订舱参考,船公司操作如有变动,请以船公司实际操作要求为准
+所列所有费用仅供参考，具体费用以实际发生时船公司确认为准
+15Logistics
+Qingdao Hengxin HX TLBD
+Caijia Ind. Jim, Qingdao CQC
+Hengxin Manufacturer Multilayer 3x layer 20 ft 22G1 ZRX valid 09.2020
+2662, PR China 11.2019
+Plastic + sleeve 24k
+Qingdao LAF Tongi, Jimo, 266228, PR CQC LAF Multilayer 4x CQC 1126 Valid to
+Manufacturer 20 ft 22G1
+Packaging China 03.2021 layer + sleeve 24k 12.2020
+Qingdao LET Chengyan, Qingdao, CQC LET Multilayer 4x SGS 58365051-4
+Manufacturer 20 ft 22G1
+Flexitank Shangdon, PR China 01.2020 layer + sleeve 24k valid 03.2018
+Qingdao PRD
+WuJia,Tongi Town, CQC PRD Multilayer 4x SGS CN16-10477
+Packing Manufacturer 20 ft 22G1
+JiMo, Qingdao PR China 09.2020 layer + sleeve 24k valid to 05.2019
+Materials
+Qingdao Tongsen Multilayer
+Tong Ji, Jimo, Qingdao, CQC ST Q20396 Valid
+Tongsen Manufacturer 4x layer + sleeve 20 ft 22G1
+PR China 01.2021 04.2021
+Packaging 24k
+PGF Multilayer 4x
+Shangdong Weifang City, Shandong, CQC SGS 10418Q21229
+Manufacturer layer + sleeve 40kg 20 ft 22G1
+PGF Packing 262400 PR China 09.2020 05.2022
+24k
+Hengxin HX TLBD
+CQC TuV 2005493 valid
+SUN Flexitank Mumbia 400038 India Operator Multilayer 3x layer 20 ft 22G1
+05.2022 12.2019
++ sleeve 24k
+Trust Standard
+Trust Tarragona, Constanti, CQC BV-ES088873-1
+Manufacturer Multilayer 2x layer 20 ft 22G1
+Flexitanks 43120, Spain 11.2019 Valid to 03-2021
++ sleeve 24k
+ 委内瑞拉货物订舱须知 Booking Requirements for Venezuela Shipments:
+针对所有出口至/转运至/途径委内瑞拉的货物，为进一步规范和加速订舱流程，
+请仔细阅读如下订舱要求，并及时提供所需信息至我司进行订舱审核。
+In order to regulate/expedite the booking procedure for shipments to/in transit
+to/via Venezuela, please carefully read the booking requirements below and provide
+us all needful information in due course.
+>> 委内瑞拉订舱申请格式 Venezuela booking application format
+邮件标题： Venezuela booking application - Booking Number- Service Name
+邮箱地址： CN177-MSCSHAEBooking@msc.com
+此订舱指南仅供订舱参考,船公司操作如有变动,请以船公司实际操作要求为准
+所列所有费用仅供参考，具体费用以实际发生时船公司确认为准
+16邮件内容：（注意：所有申请内容请填写在邮件正文内即可。）
+1. 货物用途Purpose/Sector of the cargo：请简单描述该货物的功能及用途。
+参考格式：该货物用于***行业，有***用途
+例：
+a. spare parts/components for automotive industry/appliances/elevators etc.
+b. additive in food industry
+c. a kind of liquid detergent for civil use, such as tableware detergent,
+shampoo, bath foam agent, washing agent.
+2. 提单方（收发通等）的经营范围 Commerical Activity：请简单描述该公司的日常
+业务
+参考格式：该公司在***行业，开展***业务
+例：
+a. Wholesaler/trade company/retailor/manufacture/distributor of glass
+products/furniture/foodstuff/stone products/appliances etc.
+b. Freight forwarder/logistic company to provide the cargo clearance and
+transportation services
+>> 其他订舱注意事项 Other booking requirements
+1. HS Code填写规范：
+a. 必须提供 6 位及以上 HS code，并填写在 HS CODE 专门栏位中 。
+如有多个品名，请选择其中一个填写在专门栏位，然后在品名栏中填
+写所有HS code，并与品名一一对应 。HS CODE 不符合要求的订舱，
+将不予处理！！！
+b. 如订舱品名是化工品或危险品，必须在品名栏提供对应的CAS number。
+2. 提单方公司信息：
+a. SO/SI 中的收发通都必须提供详细信息，地址要具体到街道名。
+b. 如收货人和通知人都是货代公司，则必须在申请邮件中提供真实
+收货人（real receiver）及其经营范围。真实收货人只供审查使
+用，可不显示在提单/舱单中。
+3. 禁运品名：
+委内瑞拉不接受如下货物，故请勿发送此类品名的订舱！！！
+a. Military cargo and repression equipment (i.e. weapon, explosives,
+missile technology, armoured vehicles, telecommunication equipment for
+monitoring of the population)
+此订舱指南仅供订舱参考,船公司操作如有变动,请以船公司实际操作要求为准
+所列所有费用仅供参考，具体费用以实际发生时船公司确认为准
+17b. Oil and gas sector related cargo (i.e. fuels, oils, lubricants, diluents,
+bituminous substances, mineral waxes, pipes or any other
+commodities intended for processing, extraction or transportation).
+c. Gold sector related cargo (i.e. gold ingots, ores and gold-made
+products, mining machinery, commodities used in relation to gold
+extraction and processing).
+4. 付费方式：
+仅接受预付用人民币结算，或第三地付费 Elsewhere at Izmir 用欧元结算。
+不接受到付。
+5. 订舱状态查询：
+请联系订舱代理查询最新订舱状态。如果船舶备案完成，也可自行登录联
+东网站-“网上营业厅”查询：https://web.lindomsc.com/
+6. 订舱信息更改：
+在 SI 发送或截止之前，如需更改品名、HS Code、提单方信息，请立即发
+送更改申请到我司订舱部，走重新审核流程。在审核通过前，信息将不会
+被更改。
+邮件标题： Venezuela booking update - Booking Number- Service Name
+邮箱地址： CN177-MSCSHAEBooking@msc.com
+ 英国所有港口:
+对于动物制品或海产品，请务必在船开后一周内把以下文件发送至船公司邮箱
+CN177-VETCER@msc.com。
+1. Copy of health certificate for the destination country目的港国家健康证书的
+复印件
+2. Copies of any commercial documents that are available(bill of lading &
+invoice/packing list) 商业文件的复印件（提单/发票/装箱单）
+3. Animal Origin Only: Original relevant EU Animal Health Transit certificate
+仅对于动物制品：原始的欧盟动物健康运输证书
+另外,对于非动物制品或海产品，请在舱单上提供完整的货物描述以充分说
+明非动物制品或海产品。不完整或者不清晰的的描述可能会招致额外的检查及补
+充文件要求，并造成不必要的延误和费用。
+此订舱指南仅供订舱参考,船公司操作如有变动,请以船公司实际操作要求为准
+所列所有费用仅供参考，具体费用以实际发生时船公司确认为准
+18 尼日利亚所有港口:
+兹通知，按照尼日利亚海关的指示，出口至尼日利亚的货物都要求必须装在托盘
+上。
+生效日期
+2018 年1 月1 日 (按标准离港日:经驳船或内陆运输货物以驳船出运日为准)
+目前以下货物类别可豁免货盘化的要求:
+1. 可自行从集装箱内进出的机动车辆，以供检查。
+2. 具有特定方便进行检查拆箱安全处理程序的敏感或易碎的机械。(必须有相关
+的通道以便海关人员进入集装箱进行检查)。
+3. 与内壁留有 2 英尺的空间以便在集裝箱在内进行检查的货物。
+目前，联邦财政或尼日利亚海关服务部仍未公布完整而详细的关于允许放行的非
+货盘化货物清单。
+我们强烈建议所有托运人与他们在尼日利亚的收货人保持紧密联系，并按照收货
+人的指示装载货物。若有未进行货盘化的货物于2018年1月1日后装船，托运人
+和收货人可能面临制裁包括处罚或被要求把货物再出口。
+ 加尔各答转运到尼泊尔的货物:订舱需要提供电子版保函（保函可在我司网上
+下载）另，转运条款请和 MSC 客服邮件确认
+CARGO IN TRANSIT TO xxx VIA xxx & ALL CHARGES, ARRANGEMENTS AND
+RISKS ARE ON CONSIGNEE'S ACCOUNT.CARRIER RESPONSIBLE CEASES AT
+POD KOLKATA.
+ 俄罗斯相关货物订舱申请须知:
+即日起，所有涉及到俄罗斯的 booking将不再区分付费方式，请统一在订舱
+阶段以邮件形式提供货物用途和收发通的经营范围（格式请参照附件）到订
+舱部公共邮箱：
+CN177-MSCSHAEBooking@msc.com
+请仔细阅读 ASTA 回执或联东网站的相关信息，掌握每票订舱所处状态
+此订舱指南仅供订舱参考,船公司操作如有变动,请以船公司实际操作要求为准
+所列所有费用仅供参考，具体费用以实际发生时船公司确认为准
+19为规范我司涉及到俄罗斯的相关货物的订舱流程，加快订舱审核速度。即日
+起，请按如下格式提供货物用途和收发通的经营范围：
+This serves to inform you that, in order to regulate the Russia involved shipments
+booking procedure. From now on, pls submit the relevant information
+（Purpose/Sector of the cargo and COMMERCIAL ACTIVITY of
+Shipper/CNEE/Notify ）with following format:
+注意： 请勿再用保函/附件格式提供相关信息， 所有内容请填写在邮件正
+文内即可。
+邮件标题： RUSSIA SHIPMENT APPLICATION- Booking number- Service
+Name
+Subject: RUSSIA SHIPMENT APPLICATION- Booking number- Service Name
+Golden Horn 航线 请使用如下标题:
+Subject: Golden Horn SHIPMENT APPLICATION- Booking number
+邮件内容：
+1）货物用途（Purpose/Sector of the cargo）:
+请简单描述该货物的功能及用途， 格式 该货物在***行业 用作***用途
+例： a) spare parts/components for automotive industry/appliances/ elevators
+etc.
+b) Ship building and ship repair tools
+c) additive in food industry
+d) This product is used for liquid detergent, such as tableware detergent,
+shampoo, bath foam agent, washing agent.
+e) Used in washing clothes
+2）发货人，收货人和通知人的经营范围(COMMERCIAL ACTIVITY of
+Shipper/CNEE/Notify)：以及收货人和通知人的Tax ID (INN) Number. (Tax ID
+/INN Number of CNEE/Notify)
+请简单描述该公司的日常业务，格式 该公司在***行业 开展***业务
+例： a) wholesaler/trade company/retailor/manufacture/distributor of glass
+products/furniture/foodstuff/stone products/appliances etc.
+b) Freight forwarder/logistic company to provide the cargo clearance and
+transportation services
+3) 由于涉及到俄罗斯的订舱货物不能用于深海勘探，石油钻井及页岩工程等项
+目，因此
+每票订舱申请都需在邮件末尾添加如下字段，谢谢配合。
+此订舱指南仅供订舱参考,船公司操作如有变动,请以船公司实际操作要求为准
+所列所有费用仅供参考，具体费用以实际发生时船公司确认为准
+20We hereby confirm Crimea is not involved in the shipment by any mean.
+And Cargo will NOT be used in support of exploration or production for deep
+water, Arctic
+offshore, or shale projects that have the potential to produce oil in the Russian
+Federation,
+or in maritime area claimed by the Russian Federation and extending from its
+territory.
+另：请在日常操作中注意如下几点：
+1） 在SO/SI 的HS CODE 栏位中 ，必须填写准确的HS CODE （HS CODE 只
+需要提供6位或以上即可）
+如有多个品名的，请选择其中一个递交，并在品名栏中显示与各个品名对应的
+HS
+CODE
+HS CODE 不符合要求的订舱，将不予处理！！！
+2） 关于订舱状态，请直接联系我司代查询。如果船舶备案完成，也可以到联东
+网站查询。
+3） 如有订舱信息（品名，hs code, 收发通等）在SI CUT time 之前需要更改
+的，请立即发送申请到我司相关部门进行booking form 的更新。
+Golden Horn 航线
+邮箱地址：CN177-mscchinagoldenhorn@msc.com
+邮件标题：Golden Horn shipment -BEF Update request- Booking number
+其他俄罗斯港口航线
+邮箱地址：CN177-MSCSHAEBooking@msc.com
+邮件标题：Russia shipment -BEF Update request- Booking number
+ 白俄罗斯相关货物订舱申请须知:
+尊敬的客户，
+即日起，任何涉及到白俄罗斯（白俄罗斯的收货人/通知人，经过或转运到白
+俄罗斯的货
+物）的相关订舱，请按如下格式提供货物用途和收发通的经营范围：
+此订舱指南仅供订舱参考,船公司操作如有变动,请以船公司实际操作要求为准
+所列所有费用仅供参考，具体费用以实际发生时船公司确认为准
+21注意： 请勿用保函/附件格式提供相关信息， 所有内容请填写在邮件正文内
+即可。
+邮件标题： Belarus SHIPMENT APPLICATION- Booking number- Service
+Name
+Subject: Belarus SHIPMENT APPLICATION- Booking number- Service Name
+邮件内容：（填写规范与俄罗斯订舱要求一致）
+请提供 货物用途（Purpose/Sector of the cargo）& 发货人，收货人和通知人
+的经营范围
+(COMMERCIAL ACTIVITY of Shipper/CNEE/Notify)
+请注意：
+1）在SO/SI 的HS CODE 栏位中 ，必须填写准确的HS CODE （8 位或以上）
+如有多个品名的，请选择其中一个递交，并在品名栏中显示与各个品名对应的
+HS CODE
+HS CODE 不符合要求的订舱，将不予处理！！！
+2）由于涉及到白俄罗斯的订舱货物不能用于肥料、烟草制造或石油和石油工业
+等项目，
+因此每票订舱申请都需在邮件末尾添加如下字段，谢谢配合。
+We hereby confirm the cargo under this shipment is not related to the fertilizer,
+tobacco or
+petroleum & oil sectors.
+3) 如有订舱信息（品名，hs code, 收发通等）在SI CUT time 之前需要更改的，
+请立即发送申请到我司订舱部进行booking form 的更新。
+MSC Notice - Forbidden Commodity for all trade 全航线禁运物品
+MSC 全航线均不接受任何涉及到军事/武器相关的品名和物资，请各位代理仔细
+阅读联东网站上的最新版 《MSC 操作指南》内的全航线禁运物品栏位，在收
+到托书进行订舱数据录入的时候做好排查工作（预审一下品名, hs code ，公司
+性质等），以保证订舱信息正确无误！
+此订舱指南仅供订舱参考,船公司操作如有变动,请以船公司实际操作要求为准
+所列所有费用仅供参考，具体费用以实际发生时船公司确认为准
+22 军用货物订舱须知:
+特此提醒所有发货人和订舱客户，务必遵照以下有关军用货物订舱的流程。非常感
+谢您的全面遵守与合作。
+发货人、货运代理及订舱代理必须在订舱时如实申报军用货物品名和HS代码，并
+且知晓军用货物的订舱需事先向我司申请并得到许可方能装船出运。
+如果有误申报或者瞒报军用货物，我司将拒绝装船。发货人必须承担由此产生的所
+有额外费用和瞒报罚金。
+军用货物只能签发Sea Waybill，且不接受任何提单更正、改港、更改提单方（比如
+从军事相关公司改至非军事相关公司，反之亦然）。
+ 加拿大航线:
+不接受 包装类型为 “Pallet” & “Flexbag”的货物，请勿发送此类包装的订
+舱 ，谢谢。
+Forbidden Packages for Canada
+Package Description
+FX - FLEXIBAG
+PE - PALLET
+ 埃及港口:
+此订舱指南仅供订舱参考,船公司操作如有变动,请以船公司实际操作要求为准
+所列所有费用仅供参考，具体费用以实际发生时船公司确认为准
+23请注意：经埃及海关当局通知，埃及 ACID 新规将从 2021 年10 月1日起实施。
+At SO stage, pls clearly declare below listed information in the commodity column.
+Otherwise ,the booking will not be cfmed, tks.
+在订舱阶段，请在品名栏位分行罗列如下 3条信息，如缺失或不符合要求，订舱
+将不予cfm ，谢谢合作。
+o ACID Number （通常为 19位数字）：
+o Exporter Company Registry Number or Exporter VAT Number
+（必须明确告知号码类型 ，及该号码对应的国家名）：
+o Egyptian Importer VAT Number (TAX ID NUM.) （ 通常为 9位数
+字） ：
+另必须提供10位海关编码
+ 乌克兰港口:
+乌克兰停止订舱外，从即日起MSC对去卢甘斯克、顿涅茨克的货物也有严格限制。
+所有运至、途径、中转至卢甘斯克、顿涅茨克的货物，务必发送申请邮件至MSC，
+并获得MSC的票票确认。
+最终收货人、提单方涉及卢甘斯克、顿涅茨克的，同样参照上述做法进行申请，
+获得MSC同意。
+请各订舱客户必审查清楚，在未得到MSC确认前，不允许安排订舱、提箱、进港、
+报关事宜。
+如货物因未及时申报、瞒报、漏报、误报等，或未得到MSC邮件批复就安排进港
+报关的，客户须自行承担货物无法正常运至目的地的风险与额外费用。
+此订舱指南仅供订舱参考,船公司操作如有变动,请以船公司实际操作要求为准
+所列所有费用仅供参考，具体费用以实际发生时船公司确认为准
+24邮件申请主题：Luhansk and Donetsk Booking Application – 177xxxx –
+Vessel/Voyage
+邮件发送至：cn177-mscshaebooking@msc.com
+卢甘斯克和顿涅茨克相关地区名仅供参考：
+Name
+Donetsk
+Khartsyzsk
+Makeyevka
+Makiivka
+Mandrykino
+Torez
+Vuhlehirsk
+Yenakiieve
+Yenakiyeve
+Alchevs'k
+Dovzhansk
+Lugansk
+ YEMEN港口:
+即日起，去 YEMEN各个 port的订舱，如品名涉及药品和医疗设备，发货
+人或订舱代理需要向也门最高药品委员会发送申请。
+Once get the approval , pls write Email to CN177-MSCSHAEBooking@msc.com
+with the Bkg number + BL number as subject and attaching the pre-approval,
+we’ll double check and proceed the booking.
+如申请通过，请将确认邮件作为附件发送到
+CN177-MSCSHAEBooking@msc.com 进行进一步订舱审核（邮件主题须包含
+订舱号和提单号 ）。
+Subject 邮件主题:
+此订舱指南仅供订舱参考,船公司操作如有变动,请以船公司实际操作要求为准
+所列所有费用仅供参考，具体费用以实际发生时船公司确认为准
+25Application for medicine & medical equipment shipments to YEMEN + Booking
+number + B/L number + vessel/voyage name
+Mail body 正文:
+Dear Carrier
+We have a shipment from Shanghai to __(Pod)___, Yemen with medicine &
+medical equipment related cargo included.
+Enclosed is the pre-approval from Yemen Supreme Council of Medicines ,would
+you pls kindly help to guide if this booking can be accepted ,tks.
+ PARAGUAY 港口:
+巴拉圭所有港口的订舱，在任何情况下，都不接受 HS code 3808 的农用化
+学品，请知悉。
+ 特殊箱型:40HP:
+由于集装箱的实际存量调拨需要，MSC可能对部分40尺高箱（40HC）的订舱，实
+际发放40尺超宽托盘箱（40HP）作为代替。该箱型相比40尺高箱仅略宽2厘米左
+右（具体请见我司网上挂的通知如何辨别该箱型），不影响客户正常装卸及储运，
+除以下几点须注意的重要事项：
+40HP不接受更改目的港、套用箱、以及在目的港异地还箱。如客户不接受该柜型，
+请务必于订舱时备注“NO HP SUB”；若堆场误放，请立即要求调换。任何事后提出的
+换箱要求将不予保证，如产生额外费用有客户自行承担。
+进港报关时，请按照 40 尺高箱“40HC”填报；但发送提单样本时，为确保正常导入
+系统，请务必依照实际箱型“40HP”填报；含有错误箱型的提单样本将会被拒收。运
+费仍旧按照40HC结算。
+ 锂电池:
+从即日起，自上海出口的锂电池货物均属于危险品。对于锂电池类货物，客
+户必须按危险品来订 舱，并按照我司危险品申请流程及时完成危险品申报。
+谢谢您的配合。
+此订舱指南仅供订舱参考,船公司操作如有变动,请以船公司实际操作要求为准
+所列所有费用仅供参考，具体费用以实际发生时船公司确认为准
+2611. 其他订舱要求
+1) 对于第三地付费，
+第三地付款，付款方式选FREIGHT AS ARRANGED，并在付款地点栏位输入对应
+的付款地,运费条款说明里面打: FREIGHT PAYABLE AT XXX(具体地点)
+另在其他联系人信息栏位还要提供第三地付款人的信息（包括抬头地址城市
+名、联系人代码MSC CODE、邮编、电话和联系人名字）
+2)对于第三地放单的，请一律在订舱时不显示，即无需选择放单地点，请在做提
+单确认的时候更新即可。
+3)不接受包装种类 PIECE（S）/UNIT(S)。
+4)客户提交收/发/通不能少于 5个字符，否则报文无法发送。
+5)提供的件数/毛重/尺码必须大于所订的箱量，如订的是 10 个箱子，件毛体必
+须大于10，拼票也是如此，否则报文无法发送到船公司。
+6)约主（Contract Holder）：必须显示为发货人、收货人或者通知人名称（不可
+以在地址栏内）。
+约号（VIP/SCT Code）：在相应的“订舱协议号（S/C NO.）”栏内输入所需的约
+号（如：12345-5）即可。提单签发时，我司将按照此约号，显示在提单的
+“Shipper’s Ref.”处。在品名栏内，用户不需要重复输入“VIP code/SVC number:
+xxxxx”。（特别注意：请勿在订舱协议号（S/C NO.）栏位里提交“；”“:”冒号
+分号等符号，如由此引起的约号错误均由客户自行承担责任 ）
+船公司使用的约号共有如下几种形式：
+1. 五位数的xxxxx；
+2. 带横杠的xxx-xx；
+3. 美线约或全球约的12-xxxTPC 或12-xxxWW；
+4. 仅适用于单票的Qxxxxxxxxxxxxxx；
+不管是否有约号请在我司网上订舱时 MSC 补充信息一栏的协议类型里面
+选:GENERAL TARIFF
+此订舱指南仅供订舱参考,船公司操作如有变动,请以船公司实际操作要求为准
+所列所有费用仅供参考，具体费用以实际发生时船公司确认为准
+275. 新增: Diamond Tier 约号的标准格式
+MSC要求按以下标准格式填写Diamond Tier的约号，具体如下：
+20-000TPC-DT
+111-1-DT
+20-000WW-DT
+无论是何种约号，只要是Diamond Tier的货物都是在约号后加“-”然后加“DT”， “-”前后
+不留空格。
+如果因约号未按标准格式填写而导致的一切后果将由客户自行承担。
+注意事项:
+订舱时必须提供正确有效的合约号，并确保订舱信息如实无误，与合约中规定的
+约主、指定客户或指定品名等信息一致。
+如发现以下情况，除更正运费及收取更正费用外，
+我司将另行收取“误报费”
+自2022年04月01日起MSC将调整“误报费”（“CMD”）至USD3500 / 柜。该费用仍
+然适用于以下情况：
+1. 任何滥用合约的情形（品名、港口、和/或客户信息与原始订立合
+约不同的）；
+2. 任何在订舱确认后更改指定客户，以致运费低于原费率的
+此订舱指南仅供订舱参考,船公司操作如有变动,请以船公司实际操作要求为准
+所列所有费用仅供参考，具体费用以实际发生时船公司确认为准
+283. 此规则适用于所有出货地为亚洲/东南亚国家（包括泰国、马来西
+亚、缅甸、柬埔寨、越南、日本、台湾、香港、菲律宾、韩国、新
+加坡、印度尼西亚和中国）至所有目的地的货物。
+7)关于进港代码：
+MSC进港代码(非美国CY-DOOR港口的--这个要特别确认的-可发邮件来我司确认)
+如船期表里未涉及更改(船期表有变动我司会滚动发送)，也不是OPT舱位的话，
+请按照联东网上下载的进港代码表填写 https://web.lindomsc.com/
+同时，在舱位紧张期，MSC销售会单独的邮件询问是否接受 OPT舱位（即是指集
+装箱有可能会在其它港口被卸下等待二程船，预计到港时间会晚一周）而此时给
+出的进港代码和网上显示的是不一样的，需要客人单独确认是否接受。
+若不遵守上述将导致落箱或者产生额外罚金，例如但不限于错误申报进港代码罚
+金250美金每个箱子，改港罚金500美金每票提单，更改港口代码费100/150/150
+人民币，改单费，ENS/AMS 更改费等。
+8)关于卸货港和交货地不一致时，请勾选页面最下方的“MSC 补充信息”，填写
+其中的“目的地运输方式”、“目的地属性”。
+9)对于美国线，如客户自发 AMS，请在SCAC CODE 里选择对应代码，并在品名中
+标注“AMS BY SHPR”；如需船公司代发 AMS，请在品名里注明“AMS BY MSC”。
+若没有特殊说明，则视为 AMS由船公司代发。
+10）对于加拿大线，如 ACI 自发，请在 SCAC CODE 里选择“NULL”，并在品名中
+标注“ACI BY SHPR /ACI CODE XXXX/ 8XXX CODE”；若没有特殊说明，则视为
+ACI由船公司代发。
+11) 自即日起，为了确保目的港顺利提货，MSC 要求所有订舱和提单确认件，都
+必须包含收货人和通知人的具体信息，并务必确保公司信息完整和准确。如有第
+二、第三通知人（包含银行），也需提供具体信息。MSC 之后会根据该些信息审
+查收货人及通知人是否已在 MSC注册备案。具体信息包括：国家名、城市名、地
+址（包括邮编或邮政信箱）、电话/传真/电子邮箱（3 者中任意 2 个）以及税号
+（如适用）。此类信息仅供 MSC 内部备案使用，并非要求显示在提单上（以目的
+港海关要求为准）。届时，如果缺少提单方的具体地址和城市名，订舱信息将不
+此订舱指南仅供订舱参考,船公司操作如有变动,请以船公司实际操作要求为准
+所列所有费用仅供参考，具体费用以实际发生时船公司确认为准
+29能成功发送到MSC系统。
+当订订舱或提单样本中信息不够完整不足以系统注册备案时，MSC会发送邮件询
+问获取收货人或通知人的具体信息，望广大客户能够积极配合，务必在 24 小时
+内提供完整信息。
+我们在此提醒，不完整、不准确的收货人和通知人信息会影响提单发放，甚至可
+能导致落箱或在目的港产生额外费用。敬请客户配合执行。
+另，Notify Party（包括 2nd Notify, 3rd Notify）如果地址在下列6个国家，
+必须事先在MSC注册过（即必须有 MSCCode），否则您将面临落箱或扣单风险。
+1. ARGENTINA
+2. BELGIUM
+3. BRAZIL
+4. CHILE
+5. NETHERLANDS
+6. UNITED STATES
+格式如下：
+1. Customer Name（必填）:
+2. Building name:
+3. Street（必填）:
+4. P.O Box:
+5. City（必填）:
+6. Postal Code（必填）:
+7. State（必填）:
+7. Country（必填）:
+9. Telephone（必填）:
+10. Fax:
+11. E-mail address（必填）:
+12. VAT or TAX number（必填）:
+12）对于需要做分段付费的单子
+如需做分段付费，请在订舱后务必单独发送邮件至我们订舱人员李峰
+LF@SINOTRANS.COM 在邮件中注明分段付费内容，如：
+XXXXXX TO XXXXXX FREIGHT PREPAID , XXXXXX TO XXXXXX
+FREIGHT COLLECT.
+例如：SHANGHAI TO ANTWERP FREIGHT PREPAID
+ANTWERP TO Soultz-Haut-Rhin, France FREIGHT COLLECT
+此订舱指南仅供订舱参考,船公司操作如有变动,请以船公司实际操作要求为准
+所列所有费用仅供参考，具体费用以实际发生时船公司确认为准
+3013) non-CUC applicable 及non-collect term 的申请，
+特此提醒，美国航线申请长期不用 CUC 的客户或有特殊付费要求的，如果约号
+有更新请至少在 SI cut off 前一天将新的约号以邮件形式通知我司。
+之前的长期申请因约号到期将自动失效，如果没有及时把新的约号告知我司，我
+司将默认客户同意使用我司的 Chassis 而按约收取相应的 CUC charge，之后的任
+何更改所产生的费用由客户自行承担。
+长期申请邮件格式如下：
+长期申请邮件主题必须为：CUC non-applicable – Long Term --- Account Name – SVC code
+（比如：CUC non-applicable – Long Term – ABC – 21-000TPC ）
+邮件正文为：
+Account name: ABC
+SVC code: 21-000TPC
+Pod: Long Beach
+Final destination: Chicago, IL (if no f/d, leave blank)
+Date of expiry (if any): date-month-year
+注意：申请长期的，首次适用船名航次以S/I cut off 的前一天为准
+申请邮件请发送至： CN177-MSCSHACSRTPC@msc.com
+所有长期申请的仅以发送邮件申请为准，显示在品名或其它订舱栏位中的均为无
+效
+以上邮箱地址同样适用于美国及加拿大航线其它因约号更新而需要重新申请的
+特殊要求（如 USC/ACI/WHA/THC/pod ISPS 特殊付费方式 & Long Term
+Seaway Bill）。
+对于单票申请的，请在发送S/O时按以下标注方式注明对CUC的特殊要求，如果已在S/O
+上注明要求，则无需再通过邮件形式告知我司。
+申请不用CUC：
+NO CUC （请不要加入其它符号） 打在备注第一行
+申请非到付：
+CUC PP（请不要加入其它符号）
+CUC EE （请不要加入其它符号）
+此订舱指南仅供订舱参考,船公司操作如有变动,请以船公司实际操作要求为准
+所列所有费用仅供参考，具体费用以实际发生时船公司确认为准
+31最后请注意，CUC流程仅针对下列货物：
+ 所有去美国的货物（包括美西美东基港和内陆点）, 仅POD TAMPA/MIAMI/Port
+Everglades 除外
+ 客户协议运价里未提及免除CUC的
+港口及内陆点均在加拿大的没有CUC,请不要在提交S/O时做任何标注。
+13）SOC
+订舱后发送 SOC 保函（由发货人和订舱代理盖章的扫描件即可）至我司相关人
+员处确认；
+邮件主题(Email Subject)：SOC LOI –V/V –Booking Number
+待MSC销售/订舱/箱管确认后，客服订舱组会进行最终确认操作。
+Pls pay attention that , from now on, container number with the prefixes
+TDIU, HDXU, IRSU, BANU and FURU cannot be accepted ,tks.
+二、 修改要求
+1. 品名修改（唛头）
+非制裁国及不改变品名性质和非船公司要求更改的--请提单确认里面直接更改 .
+订舱不接受更改
+制裁国及改变品名性质修改必须在提单确认前半个工作日（AMS/ENS截止前半个
+工作日）在我司网上提交，否则提单确认上品名若与订舱时不一致，船公司会按
+订舱品名显示在提单上。且提单拿到后，再想按照提单样本上更改时，会变得很
+此订舱指南仅供订舱参考,船公司操作如有变动,请以船公司实际操作要求为准
+所列所有费用仅供参考，具体费用以实际发生时船公司确认为准
+32困难。所以船前的品名修改很重要。所有修改需得到船公司确认后我司才能确认，
+所以会有一段等候时间。
+2. 改港
+1)，订舱已确认，提单样本尚未发送；
+A.适用于订舱及舱位已确认的情况。否则，请取消订舱，重新订舱至正确的
+港口或目的地。
+B. 新目的港与原目的港必须属同一航线。否则，请取消订舱，重新订舱至
+正确的港口或目的地。
+C. 更改订舱目的港应在报关和发送预配舱单前完成。如报关及发送海关预
+配舱单后，客户要求改港，所有风险和责任由客户自行承担。
+D.如牵涉到选港舱位或特殊路径，必须另行与航线或客服确认更改后的舱位
+情况。
+D.符合上述要求的，按照规定格式发送邮件申请。如果更改接受，我司将回
+复邮件确认，亦可从联东网上查询到更改结果。
+申请格式
+邮件主题：COD (before SI submission and vessel departure) – Booking number
+邮件内容格式：
+船名航次：
+订舱号（如有拼票，请一并提供）：
+合约号SCT Code：
+原目的港：
+原最终交货地：（如无，请留空）
+新目的港：
+新最终交货地：（如无，请留空）
+新最终交货地的运输条款：（如无最终交货地，请留空）
+新最终交货地的转运方式：（如无最终交货地，请留空）
+我司确认以上订舱尚未发送提单样本。现船未开，我司要求更改目的港、最终交货地。
+我司保证将按照新目的港和新最终交货地填报、发送或更改进港代码（包括选港舱位或
+特殊路径情况下），及海关申报。否则，我司将承担所有额外产生的费用，比如改港费、
+翻舱费、中
+转费等等。
+产生的费用？
+此订舱指南仅供订舱参考,船公司操作如有变动,请以船公司实际操作要求为准
+所列所有费用仅供参考，具体费用以实际发生时船公司确认为准
+33提单样本提交前申请更改，不收取任何费用。进港装箱单及报关资料更改由客户自行安
+排，产生的风险和费用由客户与海关、码头自行结算。
+2)，提单样本已发送，船未开；--联系单证更改
+3)，船开后。--联系单证更改
+3. NAME ACCOUNT 修改
+请在订舱界面提交修改 N/A。
+另：做提单确认的时候不能直接更改NAME ACCOUNT。
+4. 其他更改
+品名约号，运费条款，收发通等请在我司网上发送订舱修改，我司会提交船公司，
+等船公司回复我们邮件 OK后才会接受您的修改请求。
+所有修改请务必在截止 ENS/AMS和提单确认前的 2个工作日递交，否则由于船公
+司确认晚而导致货物不能及时发送 ENS/AMS等我司概不负责。另如有箱型修改请
+在放箱时核对是否正确，如有问题请及时提出，以免产生费用。
+三、 预配查询
+关于联东网站普通客户查询入口的说明
+登录网址 http://180.168.67.22:5503/newlogin/
+1、联东--新舱单/进口提货单
+此订舱指南仅供订舱参考,船公司操作如有变动,请以船公司实际操作要求为准
+所列所有费用仅供参考，具体费用以实际发生时船公司确认为准
+342、点”公共查询“进入（包含改单、电放操作）
+此订舱指南仅供订舱参考,船公司操作如有变动,请以船公司实际操作要求为准
+所列所有费用仅供参考，具体费用以实际发生时船公司确认为准
+35四、 退关
+请注意一旦提交退关 MSC是不可复关的.请慎重提交!
+请客人在中国外运网上服务系统上递交退关请求，并告知箱货信息，报关信息，
+和退关理由。
+1.“退关”流程
+（以下流程仅适用于报关进港都已完成的货柜。如果未报关或未进港，本就不符
+合装船的基本条件，无需按照以下流程）
+如港区网站显示已配船，则无法操作；
+如尚未配船，必须在截关前，将“退关改配联系单”的电子版本（Excel格式的，
+不要扫描版的）按以下规定主题和地址发送邮件（截关后也可提出申请，但是不
+保证操作成功）：
+发送邮件主题：Withdrawal Request -- Vessel name/Voyage -- Booking number
+2．更新的“退关改配联系单”的格式如下（亦可从联东网站下载
+https://web.lindomsc.com/）
+除退关外，此联系单亦可供客户在港区办理抽取场站收据、重箱提离港区、改配
+等业务时使用。凡需要时（无论船开前、船开后），请直接携带正本（必须有订
+舱代理盖章的，按客户需要可一式多份）至 MSC 加盖改配专用章，不需要事先发
+送电子版本。
+上述流程已更新在“日常操作常见问题与解答”
+（http://180.168.174.112/back/upload/FAQ-Daily%20Operation%2020110926
+.PDF）第二页中
+五、 常见问题及解答
+此订舱指南仅供订舱参考,船公司操作如有变动,请以船公司实际操作要求为准
+所列所有费用仅供参考，具体费用以实际发生时船公司确认为准
+361. MSC 对于日常操作问题的解答
+http://web.lindomsc.com/search.aspx?CatIDX=-1&txt=%E6%97%A5%E5%B8%B8
+%E6%93%8D%E4%BD%9C&button=
+2. 预配查询
+联东上可查询。若无预配，先看 booking confirmation 中该票的状态及理由，
+若船公司确认，就会有预配，船公司信息传送至联东大概需要1小时，然后联东
+再放预配给现场，若船公司 pending，就会有相应理由。
+3. 进港代码及相关保函下载
+https://web.lindomsc.com/
+4. 如何改配
+如上航次已落箱，无法申请漏装的客人，可向船公司申请 COV改配操作（即提单
+号/订舱号不变，只更改船名航次）
+非危险品的COV改配格式如下：
+邮件主题：COV Request – Booking Number – POD
+邮件内容：
+原船名航次：
+原航线：
+新船名航次：
+新航线：
+主订舱号：
+副订舱号（网上申请拼票不需要提供）：
+目的港：
+约号：
+付费地：
+是否提柜：
+是否重箱进港：
+是否报关：
+注意：即使申请 COV到新船，原船名航次上已确认的选港舱位（Option）同样
+此订舱指南仅供订舱参考,船公司操作如有变动,请以船公司实际操作要求为准
+所列所有费用仅供参考，具体费用以实际发生时船公司确认为准
+37适用于新船名航次，除非事先得到 MSC的同意在新船上更改为直达舱位（Fix）。
+请将表格填写完整邮件发送我们，MSC收到改配申请后会重新放新船名的预配。
+如果已经过了改配新船的截至 ENS或AMS截至时间，MSC将要求客人重新订一票
+新的
+危险品申请格式：(如已疏运，将无法再次进港，请勿申请 COV)
+邮件主题: DG COV Request – Booking Number - POD
+邮件内容:
+原船名航次：MSC Francesca S1002R
+原航线：SILK
+新船名航次：MSC Luciana L1003R
+新航线：Lion
+主订舱号：177FBWDGS12345
+副 订 舱 号 ： ( 不 签 发 提 单 的 拼 票 不 需 要 提 供 ) ：
+177LBWDGS12346/12347…
+目的港：Antwerp
+约号：123-1
+付费地：PP
+是否提柜：yes
+是否重箱进港：yes
+是否报关：no
+注意：请确保危险品集装箱仍在港区，未被疏运至危险品仓库。如已
+被疏运，此订舱号将无法再次进港。由此造成的风险和费用由客户自
+行承担。
+此订舱指南仅供订舱参考,船公司操作如有变动,请以船公司实际操作要求为准
+所列所有费用仅供参考，具体费用以实际发生时船公司确认为准
+38即使申请 COV 到新船，原船名航次上已被确认的选港舱位(Option)同
+样适用于新船名航次，除非事先得到 MSC 同意在新船上更改为直达
+舱位(Fix)
+请各危险订舱客户务必注意并同时提醒客户如遇以上情况，请安排重新订舱并
+以新订舱号来完成改配事宜。谢谢配合！
+5. 如何漏装
+在船开后，MSC会发送未上船清单给您，请根据自身情况选择漏装/改配操作。
+漏装：请按我司发送的邮件相关要求提供漏装资料
+客户需要提供额外文件如下：
+凡申请“直接改配”的，客户不得办理删单重报或改配类似手续；不得在新船上
+自行发送预配舱单；
+漏装申请提交后，如要求取消或申报后未成功的，仍需支付相关费用并自行去现
+场办理退关改配手续。
+6. 关于套用箱重要通知
+如有套用箱的情况，客户须在截止时间前按规定格式发送“套用箱申请”，否则
+客户将要承担：
+• 落箱而产生的额外风险和费用
+• 逾期发送或未发送套用箱申请，我司将视实际操作可能性协助更改装船，并
+收取改单费CNY350/票（自 2020年12月1日（母船标准离港日）起生效）。
+此订舱指南仅供订舱参考,船公司操作如有变动,请以船公司实际操作要求为准
+所列所有费用仅供参考，具体费用以实际发生时船公司确认为准
+39套用箱指：无论客户自身原因或其它原因（合并、拆分提单除外），凡提箱时对
+应的订舱号，与最终签发提单所对应的订舱号不一致，即视为套用箱
+请注意，合并、拆分提单情况下导致的订舱号改变，不属于套用箱，无需申请。
+但是客户必须在提单样本指定栏位中正确备注合并、拆分信息
+发送“套用箱申请”的邮件格式和地址请见套用箱申请表格
+("格式要求：
+1，发送邮件主题为：Mis-use application -- Vessel Voyage -- 177XXXXX12345；
+2，申请截止时间为：客户发送提单样本前 两个工作小时
+3，发送邮件地址如下（请勿群发。必须按照启运港相应地址发送）："
+POL Email Address
+Shanghai CN177-MSCSHAREUSE@msc.com
+7. 关于 NAME ACCOUNT
+订舱时客户如有NAME ACCOUNT，必需提供.
+指定客户（Named Account），美国航线：可以显示为发货人、收货人或者通知人
+（不可以在地址栏内），请统一将 NAME ACCOUNT 信息填写在“其他联系人信息”
+中的“NAMED ACCOUNT名称”内。船公司销售会按照“NAMED ACCOUNT名称”栏目
+提供的信息制作提单，显示在提单专门的栏位里
+指定客户（Named Account），非美国航线：必须显示为发货人、收货人或者通知
+人（不可以在地址栏内）。请在品名中注明NAME ACCOUNT信息及同时将其填写在
+“其他联系人信息”中的“NAMED ACCOUNT名称”内。（注；品名中N/A和专门栏
+位N/A必须相同，否则造成的提单问题自行负责）
+8. 关于 MSC 超重限重
+限重规定摘录如下，可从联东网站下载
+1, 总重量（货重+箱重）必须低于上海港规定的限重30500KGS，同时必须遵照目的
+此订舱指南仅供订舱参考,船公司操作如有变动,请以船公司实际操作要求为准
+所列所有费用仅供参考，具体费用以实际发生时船公司确认为准
+40港的限重规定（请严格按照后页中的各航线限重一览表装柜）。
+2, 装载的货重不得超过箱体的最大载荷（以标注在箱体上的为准）。
+一般货柜的最大载荷如下：
+20'DV -- 21700KGS
+Upgraded 20'DV -- 27600KGS
+40'DV/HQ -- 26000KGS
+如果 20‘货柜所装货物预计要超过 21700KGS，请向堆场工作人员要求提取“超重
+柜”(即 Upgraded 20'DV)。否则，货主/订舱代理需自行承担由于超重装载或事后换箱产
+生的额外费用。
+3, 提单上所显示的货物重量加集装箱皮重之和，如果与客户提交的 VGM 之差超过
+1000KGS，我司将在签发提单前，要求订舱代理、发货人进一步核查真实重量，向订舱
+代理索赔由此产生的额外费用（包括但不限于翻舱费、改港费和额外运费等等）。
+如有违反上述任一项规定，货主、订舱代理必须承担可能产生的所有额外费用（如翻舱
+费、码头操作费等等）和风险。
+9. MSC 保函
+各类保函请至 WWW.SINOTRANSBOOKING.COM “查询下载”中查看并下载。相关
+保函请盖 SHIPPER/订舱货代公司正本公章至我司盖章。更改保函需要带船公司
+格式和我司格式。
+10. 集装箱设备管理费
+联东船代按客户实际申领数统一通过订舱代理向客户收取。
+11. 是否能申请空白配舱回单
+可以申请,但需事先与我司客户经理或客服专员确认
+12. 华东外运海运分公司 MSC 订舱联系人
+李峰 T:33126060 EMAIL:lf@sinotrans.com
+宋振豪 T: 33125972 EMAIL: songzhenhao@sinotrans.com
+此订舱指南仅供订舱参考,船公司操作如有变动,请以船公司实际操作要求为准
+所列所有费用仅供参考，具体费用以实际发生时船公司确认为准
+41六、 船公司联系方式
+地址:上海市杨树浦路 248号24-25楼
+电话：021-61043333
+联东网址：https://web.lindomsc.com/
+MSC网址： http://www.mscgva.ch/
+此订舱指南仅供订舱参考,船公司操作如有变动,请以船公司实际操作要求为准
+所列所有费用仅供参考，具体费用以实际发生时船公司确认为准
+42马士基(MSL)订舱操作指南-2022.08.18
+目录
+一、 订舱要求 ................................................... 2
+二、 修改要求 ................................................... 6
+三、 预配查询 ................................................... 6
+四、 如何获得 Booking Confirmation .............................. 6
+五、 退关 ....................................................... 7
+六、 改配 ....................................................... 7
+七、 常见问题及解答 ............................................. 7
+八、 船公司联系方式（地址、电话、网址） ......................... 8
+此订舱指南仅供订舱参考,船公司操作如有变动,请以船公司实际操作要求为准
+所列所有费用仅供参考，具体费用以实际发生时船公司确认为准
+1一、 订舱要求
+- 订舱时需要注明约号，请写在订舱协议号（S/C NO.）栏中，约方（C/P-CONTRACT
+PARTY）,请打在备注中
+- 美国航线请注明中转港
+- 运输条款此标只接受 CY-CY或CY-DOOR如有其他,请打在备注或品名中
+- 重要:请不要在品名及备注中加与上面订舱信息不一致的内容,否则其后产生
+的费用都与我司无关。例如，上面交货地选择的是 A港，但是在备注中注目的港
+为B港
+1. 一般化工品:
+由于马士基新规定，要求化工品及汽车类货物订舱之后半小时内必须提供 MSDS
+以及相关的其他资料，请在得到提单号后 30 分钟内务必发送化工品资料或汽车
+类保函到MAERSKBOOKING@SINOTRANS.COM , 以免您的订舱被船公司直接CANCEL.
+1）MSDS的全称为MATERIAL SAFETY DATA SHEET, 中文可译为化工品安全说明书。
+2）在国际贸易中，我司建议贵司提供给我司英文版本的 MSDS。
+3）请在递交 MSDS 前检查，贵司订舱时的 commodity name 与提供的 MSDS 上的
+commodity name是否保持统一；MSDS上是否显示明确的 CAS No.
+4）MSDS 上显示的 Manufacturer /Supplier 地址须是在中国（包括香港、台湾
+地 区 ） ， 如 果 地 址 为 国 外 ， 则 需 提 供 Manufacturer /Supplier 与
+Shipper/Contractual Customer之间的关系。
+5）请在递交 MSDS 前检查，贵司提供的 MSDS 上显示的 Transport Information
+是否与海洋运输有关。
+6）MSDS Creation 、Revision、Issuance Date 的有效期为五年。
+7）对于订舱时的一些品名，如 glyphosate, charcoal, carbon 等，除需递交
+MSDS外，还需提供此品名的 Testing Report。Testing Report的中文全称为货
+物运输条件鉴定书。Testing Report 上显示的 Manufacuer 必须与 MSDS 上保持
+一致。Testing Report 的valid period是签发日之后起一年。
+8）MSDS上显示的公司名称地址须是在中国（包括香港、台湾地区）若出具人非
+中国（包括香港 台湾地区）那邮件里必须写明 MSDS出具人和发货方的关系 （如
+出具人是SHPR的子公司 或 该产品是国外生产等等
+9）第14 项 IMDG IMO 是否明确显示为非危
+10）CAS No 一定要有，不能缺失
+2. 危险品
+请在订舱时勾选危险品标识,并且注明CLASS及 UN NO
+有了关单号及船名航次后请 2 小时内发送 MDGF,MSDS 及危包证至
+MAERSKBOOKING@SINOTRANS.COM，否则可能会被马士基 CANCEL(请提供WORD 版本
+MDGF)。
+此订舱指南仅供订舱参考,船公司操作如有变动,请以船公司实际操作要求为准
+所列所有费用仅供参考，具体费用以实际发生时船公司确认为准
+2提 完 箱 后 请 发 送 FINAL MDGF( 带 箱 封 号 的 MDGF) 和 MSDS 至
+MAERSKBOOKING@SINOTRANS.COM,FINAL MDGF 要求第 15及16栏填箱号及封号,第
+20及22 栏敲章,第20 及22栏最后一格签名(手签).由于马士基系统限制，请发
+送FINAL MDGF 时注意以下事项：
+1） 一票订舱单号只能有一个附件，请把Final MDGF和MSDS合并到一个附件里
+2）附件格式只能为pdf,tif,jpg , 附件名不能包含中文字符或其他符号
+3）附件大小不能超过3M
+多品名DG订舱请在品名第一行标注（Multiple DG cargoes），并请邮件提供详
+细的DG 资料，供船公司审核放舱。
+DG订舱，“危险品运输名称(PSN)”,“危险品化学品名” 和 “危险品包装种类”
+字段必须填写，且对应的危险品包装种类代码请自行至外运网站下载查看。
+DG订舱，收到BC后仔细核对订舱信息是否正确，如有问题请及时联系我司。
+危险品申报单要求
+如果您有危险品货物目的地为美国或加拿大，或通过美国或加拿大卸货、中转的，
+请务必仔细 阅读以下两条内容和要求，并保证严格执行。
+1) 必须填写有效的24小时紧急联系人和24小时紧急联系电话
+A 在危险品申报单上第9栏“附加信息”一栏内必须注明有效的24小时紧急联系人
+和24小时紧急联系电话。
+B 24小时紧急联系电话必须是直线，不能留在机器应答或留言信箱的状态。
+C 24小时紧急联系电话可以来自起运港，或是目的港。
+D 24小时紧急联系人必须能够用英语沟通。
+E 24小时紧急联系电话必须24小时随时有应答，以保证在运输过程中遇到需要提
+供相关技术信息的时候发货人能及时被联系到。在这种情况下如果无法通过电话
+联系到联系人并获得信息，这票危险品货物有可能会被禁止卸在美国或加拿大港
+口。
+2) 在危险品申报单上第20栏和第22栏请务必分别填写地点和日期。
+对于目标货物：UN2465 + UN2468/5.1
+2022年 5月18日船公司有以下提醒：
+鉴于出现过从中国出运，UN2465 + UN2468/5.1 危险品泄露的事故，为了避免泄
+露事故再次发生，船司现在建议客人出运以上 UN 的货物之前，将以下要求作为
+装箱标准：
+在装箱的时候在集装箱每一侧和两端分别挂置冷凝剂： “Super Dry Container
+Desiccant Size 1Kg”
+未防止安全措施不到位危险品泄露产生的巨大损失，建议客人可以采取以上措施
+在一定程度上尽量避免此类情况发生
+此订舱指南仅供订舱参考,船公司操作如有变动,请以船公司实际操作要求为准
+所列所有费用仅供参考，具体费用以实际发生时船公司确认为准
+3挂置冷凝剂的模板照片如下，请进行参考
+3. 卷钢类(MMA)
+马士基对于单件货物大于2TON的金属类货物归类为MMA,请在订舱时提供货物照
+片及单件重量以确认是否属于MMA
+如是MMA 需要在装箱后提供装箱照片及装箱明细表,需要马士基确认可以进港才
+能封箱进港.
+附有《重申关于金属卷板(Metal Coils)的货物装箱要求》及《MMA Packing
+Declaration sheet》
+4. 冷冻箱
+请在订舱时选择冷冻品，并提供
+A. 温度(TEMP):_____’C
+B. 湿度(HUM):_____%
+C. 通风量(VENT):______CBM/H
+D. 报检地(inspection place)及报检号(inspection no.)
+收到 BC 后请仔细核对冷冻箱信息，如与订舱提供的信息不符，请尽快发送至
+MAERSKBOOKING@SINOTRANS.COM.
+5. 开顶箱及框架箱
+1) 订 舱 时 请 提 供 长 (L):____mm, 宽 (W):_____mm, 高 (H):_____mm 重 量
+(weight):_____kgs
+注意：特种箱如果属于 OOG，请一并提供QM REF NO,以便MSK 尽快审核特种箱.
+2）请在特种柜提柜截止时间前安排提柜，同时请确保在装箱后确认实际的货物
+尺寸和重量,如实际货物的超限尺寸和重量与订舱信息不符或者有任何尺寸和重
+量的更改申请,请在提箱后把柜号及其对应尺寸尽快发送到：
+CN.EAST.EXPORT@maersk.com
+以避免后续更改可能导致货物被拒上船,由此产生的责任与费用将由客户全责承
+担.(超尺寸自备箱-货主自有箱承载的超限货物也需在此时间前及时告知箱号及
+此订舱指南仅供订舱参考,船公司操作如有变动,请以船公司实际操作要求为准
+所列所有费用仅供参考，具体费用以实际发生时船公司确认为准
+4尺寸信息，如在订舱时已注明箱号并且箱号及对应尺寸没有更改的则不需另外通
+知船司)
+6．SOC 箱
+订 舱 后 有 了 船 名 航 次 关 单 号 后 ， 请 发 送 以 下 文 件 到
+MAERSKBOOKING@SINOTRANS.COM
+A.SOC REQUEST FORM(请见附件,并附有填写样本)
+B.SOC DETAILS(见附件 EXCEL表格)
+C.箱证
+D.铭牌照片
+E.箱体照片
+重要：收到 Booking Confirmation 时请仔细核对马士基开始打印提箱通知单时
+间为船开前6天，2010-12-6开始所有没有在截止打印提箱通知单之前打印的马
+士基将默认退关，截止时间一般为船开前三天，具体请参照 DEPLYMENT表格
+7．尼日利亚的货物规定
+自 2018年1月1日起生效（以起运港装船 日期为准），所有出口至尼日利亚的货
+物都要求必须用托盘装运。
+8.CROSS BOOKING(包括马士基线上订舱)：
+1、 向我司提交订舱内容时注意点：
+1) 提单号/船名航次必须输入
+2) “船公司销售”栏位输入“ONLINE”
+3）约号栏位输入CROSS
+2、订舱数据提交后注意点：
+请发送更改“TP DOC RECEIVER”的邮件给马士基（cn.east.export@maersk.com），以下模
+板内容供参考：
+Dear
+xxxxxxxxx提单号请更改Tp-doc receiver，具体信息如下
+Customer ID:40605567SGH
+Company:SINOTRANS EASTERN CO LTD SHIPPING
+3、向我司提交舱单时注意点：
+“船公司销售”栏位内容必须清空
+4、向我司提交提单确认时，请在备注栏位标注以下信息：
+SHA LOCAL CHARGE PAID BY 40605567SGH
+如还有其他费用需要我司代结算请另外注明（举例：起运港基础人民币费用+海运费预
+付情况SHA LOCAL CHARGE & OCEAN FREIHGT PREPAID BY 40605567SGH）
+此订舱指南仅供订舱参考,船公司操作如有变动,请以船公司实际操作要求为准
+所列所有费用仅供参考，具体费用以实际发生时船公司确认为准
+5二、 修改要求
+1．如果增加箱子需要注明每个箱子的重量
+2．危险品如果更改内容请在网上提交修改，并请提供更改后的 MDGF
+3．普通货物更改为化工品，或者化工品更改为另一种化工品，请提供新的
+MSDS
+注意：MSL最新规定自 2018年7月16号起（根据订舱时间）为了确保帐单的准
+确性，在提空柜之后 MSL将不再接受以下几个项目的修正
+1. 货物品名
+2. 合约方
+3. 指定客户名称（Named Account Customer）
+4. 合约号码
+*若您的订舱包含多个柜子，将以第一个柜子的提领开始执行新规
+*针对品名，将不予更改 SAF 内部订舱系统显示的品名代码，但是仍会接受更改
+提单所显示的货物描述以符合海关规定.
+三、 预配查询
+以收到的船公司 BKG CONFIRMATION 为准,也可以查询亿通网
+http://edi.easipass.com/dataportal/q.do?qn=msk
+四、 如何获得 Booking Confirmation
+1. 我司会通过邮件自动发送
+2. 在订单管理中输入此票提单号，选中该提单号后，上栏的最右有 PDF 下载
+按钮，点击即可下载。如无内容跳出可能是网速较慢，请耐心等候，如没
+有预配，则会跳出：无 PDF可下载。
+此订舱指南仅供订舱参考,船公司操作如有变动,请以船公司实际操作要求为准
+所列所有费用仅供参考，具体费用以实际发生时船公司确认为准
+6五、 退关
+1．未提箱未报关请在网上提交退关
+2．已进港已报关请提供正本扣箱保函，保函上要求 SHPR 中英文对照章，货
+代正本公章，一式二份外运敲章后送马士基相关客服
+重要：若退关，请在船舶开航四天前向我司提出申请并告之退关原因。
+六、 改配
+1．若需改配随后的航次，请您不要退关重订，可以直接在我司网上提交修
+改时在备注中注明所需延后的时间,参照字样: “此提单号请改配至
+ETD2011/10/21 船上。”(因为 ETD 的信息您是无法修改的，所以在备注中说明我
+们即会处理)。
+提交改配申请后，船名航次暂时不会更改，要等到船公司确认改船信息，有
+更改的AMENDMENT发出后，我司才会根据船公司的更改船名更新我司系统并重新
+发送舱单。
+2．若提单确认件我们已经递交船公司而您又有信息需要修改，此时若改配
+则 会 产 生 提 单 更 改 费 ， 我 们 建 议 您 重 新 订 舱 并 发 邮 件
+maerskbooking@sinotrans.com 申请套用箱。
+七、 常见问题及解答
+1．截关时间/截止FINAL MDGF 时间/截止打印提箱通知单时间
+答：请见 BC
+2.截止提单确认时间
+答 ：
+http://www.sinotransbooking.com/sinotrans-main/search/search_deadline
+.html
+海运订舱网“查询下载”的“提单截单时间”中输入下面的船名航次可以查询到，
+如没有请电话咨询我司单证人员
+3.为什么网上没有最新的船名航次
+答：可能是有更改被我们拒绝后您没及时取消此更改，请点此更改后点下面的取
+消更改。如不能解决请联系订舱人员
+此订舱指南仅供订舱参考,船公司操作如有变动,请以船公司实际操作要求为准
+所列所有费用仅供参考，具体费用以实际发生时船公司确认为准
+74.为什么我看不到某票单子？
+答：可能是您未用提交此票单子的用户名登陆，如不能解决请联系相关订舱
+人员
+5.危险品的货申报何时截止？送到哪里？
+答：请联系联合船代，电话：60773888
+6.如何知道是否已放预配？
+答：亿通网 http://edi.easipass.com/dataportal/q.do?qn=msk 如果查询
+得到此票单子就说明此票有预配。
+重要：预配并不是需要 Booking Confirmation 此 PDF 表格放的，只要亿通
+网上有此关单号一般都已放预配，除了缺箱或者还未到放箱时间
+7.BOOKING CONFIRMATION 已收到，但亿通网上还是不能放预配
+答：可能是放箱时间还未到或者缺箱，如是其他原因可以将亿通网上报错信
+息截屏发给我们，我们再联系马士基
+8.我司 MSK 订舱联系人
+戴思琪 TEL:33126004 E-MAIL: MAERSKBOOKING@SINOTRANS.COM
+八、 船公司联系方式（地址、电话、网址）
+MSL 地址：上海市黄浦区蒙自路757号（歌斐中心）20楼
+电话：23062222
+网址：www.maerskline.com
+此订舱指南仅供订舱参考,船公司操作如有变动,请以船公司实际操作要求为准
+所列所有费用仅供参考，具体费用以实际发生时船公司确认为准
+8
